@@ -1,0 +1,1 @@
+To develop a predictive model that accurately estimates the sale prices of residential homes based on various features, employing advanced regression techniques to improve the accuracy of predictions.
