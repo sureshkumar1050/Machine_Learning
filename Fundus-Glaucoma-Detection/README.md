@@ -1,2 +1,5 @@
-Objective :  
-    The primary objectives of the Fundus Glaucoma Detection project are to develop an accurate and efficient automated system for identifying glaucoma from fundus images. This includes optimizing image preprocessing techniques, implementing state-of-the-art feature extraction methods, and deploying a machine learning model with a focus on high sensitivity and specificity.
+Project Title:
+Fundus Glaucoma Detection
+
+Description:
+This project focuses on the detection of glaucoma using fundus images. Glaucoma is a leading cause of irreversible blindness worldwide, and early detection is crucial for effective treatment. The project utilizes deep learning techniques to analyze fundus images and classify them as either normal or indicative of glaucoma.
